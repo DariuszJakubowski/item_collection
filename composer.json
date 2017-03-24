@@ -1,0 +1,10 @@
+{
+    "name": "bruto/IC",
+    "autoload":
+    {
+        "psr-4":
+        {
+            "IC\\" : "app/"
+        }
+    }
+}
